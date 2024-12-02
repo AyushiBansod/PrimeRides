@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "make": "Ferrari",
+    "model": "488 Spider",
+    "description": "A high-performance sports car with an open-top design and powerful V8 engine.",
+    "price": "Rs. 280,000",
+    "image_url": "/car-images/ferrari488spider.jpg"
+  },
+  {
+    "id": 2,
+    "make": "Lamborghini",
+    "model": "Huracan Evo",
+    "description": "A supercar with sleek design, dynamic handling, and a powerful V10 engine.",
+    "price": "Rs. 310,000",
+    "image_url": "/car-images/LamborghiniHuracanEvo.jpg"
+  },
+  {
+    "id": 3,
+    "make": "Porsche",
+    "model": "911 Carrera",
+    "description": "A classic sports car with precise handling and an iconic design.",
+    "price": "Rs. 120,000",
+    "image_url": "/car-images/Porsche911Carrera.jpg"
+  },
+  {
+    "id": 4,
+    "make": "McLaren",
+    "model": "720S",
+    "description": "A lightweight supercar known for its performance and advanced aerodynamics.",
+    "price": "Rs. 299,000",
+    "image_url": "/car-images/McLaren720S.jpg"
+  },
+  {
+    "id": 5,
+    "make": "Aston Martin",
+    "model": "DB11",
+    "description": "A luxury grand tourer with a refined design and V12 power.",
+    "price": "Rs. 205,000",
+    "image_url": "/car-images/AstonMartinDB11.jpg"
+  },
+  {
+    "id": 6,
+    "make": "BMW",
+    "model": "M4",
+    "description": "A high-performance coupe with impressive power and precision handling.",
+    "price": "Rs. 71,800",
+    "image_url": "/car-images/Bmwm4.jpg"
+  },
+  {
+    "id": 7,
+    "make": "Audi",
+    "model": "R8",
+    "description": "A mid-engine sports car with a sleek design and a naturally aspirated V10.",
+    "price": "Rs. 142,700",
+    "image_url": "/car-images/AudiR8.jpg"
+  },
+  {
+    "id": 8,
+    "make": "Mercedes-Benz",
+    "model": "AMG GT",
+    "description": "A striking sports car with a bold design and exhilarating performance.",
+    "price": "Rs. 115,000",
+    "image_url": "/car-images/Mercedes-Benz AMG GT.jpg"
+  },
+  {
+    "id": 9,
+    "make": "Chevrolet",
+    "model": "Corvette C8",
+    "description": "An American icon reinvented with a mid-engine layout and impressive power.",
+    "price": "Rs. 67,495",
+    "image_url": "/car-images/Chevrolet Corvette C8.jpg"
+  },
+  {
+    "id": 10,
+    "make": "Ford",
+    "model": "Mustang Shelby GT500",
+    "description": "A muscle car with extreme power and aggressive styling.",
+    "price": "Rs. 79,420",
+    "image_url": "/car-images/Ford Mustang Shelby GT500.jpeg"
+  },
+  {
+    "id": 11,
+    "make": "Nissan",
+    "model": "GT-R",
+    "description": "A legendary Japanese sports car with advanced technology and performance.",
+    "price": "Rs. 113,540",
+    "image_url": "/car-images/Nissan GT-R.jpeg"
+  },
+  {
+    "id": 12,
+    "make": "Jaguar",
+    "model": "F-Type",
+    "description": "A British sports car with elegant design and thrilling performance.",
+    "price": "Rs. 71,000",
+    "image_url": "/car-images/Jaguar F-Type.jpg"
+  },
+  {
+    "id": 13,
+    "make": "Dodge",
+    "model": "Challenger SRT Hellcat",
+    "description": "An American muscle car with outrageous horsepower and bold looks.",
+    "price": "Rs. 64,000",
+    "image_url": "/car-images/Dodge Challenger SRT Hellcat.jpg"
+  },
+  {
+    "id": 14,
+    "make": "Lexus",
+    "model": "LC 500",
+    "description": "A luxury coupe with a powerful V8 engine and elegant design.",
+    "price": "Rs. 93,050",
+    "image_url": "/car-images/Lexus LC 500.jpg"
+  },
+  {
+    "id": 15,
+    "make": "Toyota",
+    "model": "Supra",
+    "description": "A modern sports car that combines heritage and high performance.",
+    "price": "Rs. 43,540",
+    "image_url": "/car-images/Toyota Supra.jpeg"
+  }
+]
